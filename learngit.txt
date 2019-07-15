@@ -1,2 +1,3 @@
 Git is a distributed version control system.
 Git is free saftware.
+Git has a mutable inde called stage.
